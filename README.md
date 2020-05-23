@@ -19,8 +19,8 @@
 > Links
 
 - [Flask Dashboard Azia PRO](https://flask-dashboard-azia-pro.appseed.us/) - LIVE Demo
-- [Boierplate Code Flask](https://appseed.us/admin-dashboards/flask-dashboard-azia-pro) - Official product page
-- [Boierplate Code Flask](https://github.com/app-generator/flask-dashboard-azia-pro) - Starter docs
+- [Flask Dashboard Azia PRO](https://appseed.us/admin-dashboards/flask-dashboard-azia-pro) - Official product page
+- [Flask Dashboard Azia PRO](https://github.com/app-generator/flask-dashboard-azia-pro) - Starter docs
 
 <br />
 
