@@ -1,19 +1,15 @@
 # [Flask Dashboard Azia PRO](https://appseed.us/admin-dashboards/flask-dashboard-azia-pro)
 
-> Commercial product - **Flask Dashboard** coded on top of **Azia Dashboard PRO** crafted by **BootstrapDash**.
+> Commercial product - **Flask Dashboard** coded on top of **Azia Dashboard PRO** crafted by **BootstrapDash** - Features:
 
-<br />
-
-## Dashboard Features
-
+- Sample UI Kit: **Azia Dashboard PRO** provided by **BootstrapDash**
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
 - Modular design with **Blueprints**
 - Session-Based authentication (via **flask_login**)
 - Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- Sample UI Kit: **Azia Dashboard PRO** provided by **BootstrapDash**
-- **Commercial License**
+- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
 - 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
 > Links
@@ -21,6 +17,8 @@
 - [Flask Dashboard Azia PRO](https://flask-dashboard-azia-pro.appseed.us/) - LIVE Demo
 - [Flask Dashboard Azia PRO](https://appseed.us/admin-dashboards/flask-dashboard-azia-pro) - Official product page
 - [Flask Dashboard Azia PRO](https://github.com/app-generator/flask-dashboard-azia-pro) - Starter docs
+- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
+- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
 
 <br />
 
