@@ -4,7 +4,7 @@
 
 <br />
 
-> Flask Dashboard Features
+## [Flask Dashboard](http://appseed.us/admin-dashboards/flask) Features
 
 - DBMS: SQLite, PostgreSQL (production) 
 - DB Tools: SQLAlchemy ORM, Alembic (schema migrations)
@@ -15,7 +15,7 @@
 
 <br />
 
-> Links
+**Links**
 
 - [Flask Dashboard - Azia PRO](https://appseed.us/admin-dashboards/flask-dashboard-azia-pro) - the product page
 - [Flask Dashboard - Azia PRO Demo](https://flask-dashboard-azia-pro.appseed.us/) - Default login credentials ** *test / pass* **
@@ -23,7 +23,7 @@
 
 <br />
 
-## UI Kit - **[Azia Dashboard PRO](https://docs.appseed.us/bootstrap-template/azia-dashboard-pro/)**
+## **[Azia Dashboard PRO](https://docs.appseed.us/bootstrap-template/azia-dashboard-pro/)** Design
 
 Azia Dashboard is a Bootstrap 4 admin & dashboard template featuring components that are built to fit perfectly with each other. It offers a clean interface that can be easily adapted to fit your vision and branding. Azia features many essential utility classes that can help cut down CSS bloat and modify CSS components instantly.
 
