@@ -200,11 +200,6 @@ The generated file is saved in `static/assets/css` directory.
 
 The app is provided with a basic configuration to be executed in [Docker](https://www.docker.com/), [Heroku](https://www.heroku.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
 
-<br />
-
-### [Docker](https://www.docker.com/) execution
----
-
 ### [Heroku](https://www.heroku.com/)
 ---
 
