@@ -6,7 +6,7 @@
 
 > Features
 
-- Up-to-date dependencies: **Flask 2.0.1**
+- `Up-to-date dependencies`: **Flask 2.0.1**
 - [SCSS compilation](#recompile-css) via **Gulp**
 - DBMS: SQLite, PostgreSQL (production) 
 - DB Tools: SQLAlchemy ORM, Flask-Migrate (schema migrations)
@@ -20,8 +20,7 @@
 > Links
 
 - [Flask Azia PRO](https://appseed.us/admin-dashboards/flask-dashboard-azia-pro) - product page
-- [Flask Azia PRO Demo](https://flask-azia-dashboard-pro.appseed-srv1.com/) - LIVE App
-- [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
+- [Flask Azia PRO](https://flask-azia-dashboard-pro.appseed-srv1.com/) - LIVE Demo
 
 <br />
 
